@@ -2,5 +2,5 @@ library(RPostgres)
 library(tidyverse)
 
 
-test
+test_data <- c(1,2,5,2)
 
