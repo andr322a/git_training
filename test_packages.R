@@ -1,6 +1,2 @@
 library(RPostgres)
-library(tidyverse)
-
-
-test
-
+library(tidyverse) #hello world
