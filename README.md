@@ -1,3 +1,3 @@
 # Hello World
 
-# Dette er en test2
+# Dette er en test
